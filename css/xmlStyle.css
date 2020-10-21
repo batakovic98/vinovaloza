@@ -1,0 +1,24 @@
+Osobe
+{
+	border:3px solid red;
+	margin:20px auto;
+	width:650px;
+	padding:10px;
+	background-color:yellow;
+	display:block;
+}
+
+Osoba
+{
+	background-color:orange;
+	display:block;
+	margin:20px 0px;
+}
+
+korisnickoime, email, lozinka, lozinkaponovo
+{
+	display:block;
+	color:red;
+	margin:5px;
+}
+

@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+body{
+	font-family: 'Courgette', cursive;
+}
+
+#slika {
+	background-image:url('../images/slika1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	height: 450px;
+}
+
+#unutarSlike{
+	position:relative;
+}
+
+#slikaTekst {
+	color:#cbd5f2;
+	position: absolute;
+	top:20px;
+}
+
+#slikaTekst a {
+	text-decoration:underline;
+	color:#cbd5f2;
+}
+
+#slikaTekst a:hover{
+	background-color:white;
+	color:#f4ce42;
+	border-radius:10px;
+}
+
+#meni{
+	background-color:black;
+}
+
+#glavniMeni li {
+	margin: 20px 20px;
+	font-size: 24px;
+}
+
+#glavniMeni a {
+	color:#cbd5f2;
+}
+
+#glavniMeni a:hover {
+	color:black;
+}
+
+#proizvodi{
+	margin-bottom:30px;
+}
+
+#proizvod1{
+	background-image:url('../images/slika2.jpg');
+	background-size:cover;
+	height:200px;
+	margin-top:20px;
+}
+
+#proizvod2{
+	background-image:url('../images/slika3.jpg');
+	background-size:cover;
+	height:200px;
+	margin-top:20px;
+}
+
+
+.tekst{
+	margin-top:20px;
+	font-size:17px;
+}
+
+#forma{
+	font-size:20px;
+}
+
+#kontakt{
+	text-align:center;
+	margin-bottom:30px;
+}
+
+#meni p{
+	font-size:20px;
+	color:white;
+	padding-top:15px;
+}
+
+.btn{
+	background-color:black;
+	color:white;
+}
+
+#onama1{
+	background-image:url('../images/slika4.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#onama2{
+	background-image:url('../images/slika5.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#onama3{
+	background-image:url('../images/slika6.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#onama4{
+	background-image:url('../images/slika7.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+
+
+#slika9{
+	background-image:url('../images/slika9.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#slika10{
+	background-image:url('../images/slika10.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#slika11{
+	background-image:url('../images/slika11.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#slika12{
+	background-image:url('../images/slika12.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#slika13{
+	background-image:url('../images/slika13.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#slika14{
+	background-image:url('../images/slika14.jpg');
+	background-size:cover;
+	height:300px;
+	margin-top:20px;
+	border-radius:10px;
+}
+
+#logovanje{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+#registracija{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+
+
+
+
+
+

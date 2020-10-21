@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="css/xmlStyle.css"?>
+<Osobe>
+	<Osoba>
+		<korisnickoime>Miki1998</korisnickoime>
+		<email>mihajlo@email.com</email>
+		<lozinka>123456789</lozinka>
+		<lozinkaponovo>123456789</lozinkaponovo>
+	</Osoba>
+	<Osoba>
+		<korisnickoime>Uros2000</korisnickoime>
+		<email>uros@email.com</email>
+		<lozinka>987654</lozinka>
+		<lozinkaponovo>987654</lozinkaponovo>
+	</Osoba>
+	<Osoba>
+		<korisnickoime>Jovana1595</korisnickoime>
+		<email>jovana@email.com</email>
+		<lozinka>159357</lozinka>
+		<lozinkaponovo>159357</lozinkaponovo>
+	</Osoba>
+	<Osoba>
+		<korisnickoime>Batak998</korisnickoime>
+		<email>batak@email.com</email>
+		<lozinka>753456</lozinka>
+		<lozinkaponovo>753456</lozinkaponovo>
+	</Osoba>
+</Osobe>
